@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AAbdullahRajput/AAbdullahRajput/main/gif.gif" alt="Developer Animation" width="600"/>
+  <img src="https://raw.githubusercontent.com/AAbdullahRajput/AAbdullahRajput/main/gif.gif" alt="Developer Animation" width="100%" height="300"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Ahmad Abdullah</h1>
@@ -57,13 +57,6 @@ current_focus: Advanced Flutter & Clean Architecture
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   </a>
 </p>
-<p style="opacity: 0.6; font-size: 11px;">
-  <span>&nbsp;&nbsp;&nbsp;Flutter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;Dart&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;Android&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;&nbsp;Kotlin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-</p>
 
 ### Web Development
 <p>
@@ -88,15 +81,6 @@ current_focus: Advanced Flutter & Clean Architecture
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
   </a>
-</p>
-<p style="opacity: 0.6; font-size: 11px;">
-  <span>&nbsp;&nbsp;HTML5&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;&nbsp;CSS3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span>JavaScript&nbsp;</span>
-  <span>TypeScript</span>
-  <span>&nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span>Bootstrap&nbsp;</span>
-  <span>&nbsp;Tailwind&nbsp;</span>
 </p>
 
 ### Backend & Databases
@@ -126,16 +110,6 @@ current_focus: Advanced Flutter & Clean Architecture
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="45" height="45"/>
   </a>
 </p>
-<p style="opacity: 0.6; font-size: 11px;">
-  <span>&nbsp;&nbsp;Node.js&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;Express&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;PHP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;Firebase&nbsp;&nbsp;</span>
-  <span>&nbsp;MongoDB&nbsp;</span>
-  <span>&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;</span>
-  <span>PostgreSQL</span>
-  <span>&nbsp;&nbsp;&nbsp;SQLite&nbsp;&nbsp;&nbsp;</span>
-</p>
 
 ### Programming Languages
 <p>
@@ -151,12 +125,6 @@ current_focus: Advanced Flutter & Clean Architecture
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   </a>
-</p>
-<p style="opacity: 0.6; font-size: 11px;">
-  <span>&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </p>
 
 ### AI/ML & Data Science
@@ -179,14 +147,6 @@ current_focus: Advanced Flutter & Clean Architecture
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="45" height="45"/>
   </a>
-</p>
-<p style="opacity: 0.6; font-size: 11px;">
-  <span>&nbsp;&nbsp;PyTorch&nbsp;&nbsp;</span>
-  <span>TensorFlow</span>
-  <span>&nbsp;&nbsp;OpenCV&nbsp;</span>
-  <span>&nbsp;Scikit-learn</span>
-  <span>&nbsp;&nbsp;Pandas&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;NumPy&nbsp;&nbsp;</span>
 </p>
 
 ### Tools & Platforms
@@ -215,16 +175,6 @@ current_focus: Advanced Flutter & Clean Architecture
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/>
   </a>
-</p>
-<p style="opacity: 0.6; font-size: 11px;">
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;GitHub&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;&nbsp;Figma&nbsp;&nbsp;&nbsp;</span>
-  <span>&nbsp;Postman&nbsp;</span>
-  <span>&nbsp;&nbsp;Arduino&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;Docker&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;</span>
-  <span>&nbsp;VS Code&nbsp;</span>
 </p>
 
 ---
