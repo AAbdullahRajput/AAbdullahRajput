@@ -77,10 +77,6 @@ motto: "Code with purpose, build with passion"
     <br><sub><b>Android</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="50" height="50" alt="Kotlin" />
-    <br><sub><b>Kotlin</b></sub>
-  </td>
-  <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
     <br><sub><b>Java</b></sub>
   </td>
@@ -103,18 +99,6 @@ motto: "Code with purpose, build with passion"
     <br><sub><b>JavaScript</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
-    <br><sub><b>TypeScript</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React" />
-    <br><sub><b>React</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind" />
-    <br><sub><b>Tailwind</b></sub>
-  </td>
-  <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50" height="50" alt="Bootstrap" />
     <br><sub><b>Bootstrap</b></sub>
   </td>
@@ -125,14 +109,6 @@ motto: "Code with purpose, build with passion"
 <table>
 <tr>
   <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
-    <br><sub><b>Node.js</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50" alt="Express" />
-    <br><sub><b>Express</b></sub>
-  </td>
-  <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
     <br><sub><b>PHP</b></sub>
   </td>
@@ -141,16 +117,8 @@ motto: "Code with purpose, build with passion"
     <br><sub><b>Firebase</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
-    <br><sub><b>MongoDB</b></sub>
-  </td>
-  <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
     <br><sub><b>MySQL</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
-    <br><sub><b>PostgreSQL</b></sub>
   </td>
   <td align="center" width="100">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50" alt="SQLite" />
@@ -163,50 +131,28 @@ motto: "Code with purpose, build with passion"
 <table>
 <tr>
   <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-    <br><sub><b>Python</b></sub>
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" height="50" alt="Dart" />
+    <br><sub><b>Dart</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" />
-    <br><sub><b>C</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+    <br><sub><b>Java</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+    <br><sub><b>JavaScript</b></sub>
   </td>
   <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
     <br><sub><b>C++</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
-    <br><sub><b>Java</b></sub>
-  </td>
-</tr>
-</table>
-
-### 🤖 AI/ML & Data Science
-<table>
-<tr>
-  <td align="center" width="100">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" height="50" alt="PyTorch" />
-    <br><sub><b>PyTorch</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
+    <br><sub><b>PHP</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50" alt="TensorFlow" />
-    <br><sub><b>TensorFlow</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50" alt="OpenCV" />
-    <br><sub><b>OpenCV</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit-learn" />
-    <br><sub><b>Scikit-learn</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
-    <br><sub><b>Pandas</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="50" height="50" alt="NumPy" />
-    <br><sub><b>NumPy</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" />
+    <br><sub><b>C</b></sub>
   </td>
 </tr>
 </table>
@@ -215,8 +161,12 @@ motto: "Code with purpose, build with passion"
 <table>
 <tr>
   <td align="center" width="100">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" />
-    <br><sub><b>Git</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio" />
+    <br><sub><b>Android Studio</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" height="50" alt="VS Code" />
+    <br><sub><b>VS Code</b></sub>
   </td>
   <td align="center" width="100">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50" alt="GitHub" />
@@ -229,22 +179,6 @@ motto: "Code with purpose, build with passion"
   <td align="center" width="100">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" />
     <br><sub><b>Postman</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" height="50" alt="Arduino" />
-    <br><sub><b>Arduino</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
-    <br><sub><b>Docker</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
-    <br><sub><b>Linux</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" height="50" alt="VS Code" />
-    <br><sub><b>VS Code</b></sub>
   </td>
 </tr>
 </table>
@@ -277,15 +211,11 @@ motto: "Code with purpose, build with passion"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Achievements & Trophies
+##  Statistics
 
 <div align="center">
 
-<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AAbdullahRajput&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="98%" alt="GitHub Trophies" />
-
-<br/><br/>
 
 <!-- Profile Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAbdullahRajput&theme=tokyonight" width="98%" />
