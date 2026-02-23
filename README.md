@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AAbdullahRajput/AAbdullahRajput/main/gif.gif" alt="Developer Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/AAbdullahRajput/AAbdullahRajput/main/gif.gif" alt="Developer Banner" width="600"/>
 </div>
 
 <h1 align="center">
@@ -259,29 +259,19 @@ motto: "Code with purpose, build with passion"
 
 <br/>
 
-<!-- Row 1: Stats + Streak -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AAbdullahRajput&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://streak-stats.demolab.com?user=AAbdullahRajput&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://streak-stats.demolab.com/?user=AAbdullahRajput&theme=tokyonight&hide_border=true" />
+
 
 <br/><br/>
 
-<!-- Row 2: Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAbdullahRajput&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AAbdullahRajput&theme=tokyo-night&hide_border=true&area=true&custom_title=Ahmad%20Abdullah%27s%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
 
 <br/><br/>
 
-<!-- Animated Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AAbdullahRajput&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph" />
-
-<br/><br/>
-
-<!-- 🐍 Contribution Snake Animation -->
-<!-- NOTE: Run the GitHub Action first, then this will display -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AAbdullahRajput/AAbdullahRajput/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AAbdullahRajput/AAbdullahRajput/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AAbdullahRajput/AAbdullahRajput/output/github-contribution-grid-snake-dark.svg" width="98%" />
-</picture>
+<!-- 🐍 Snake Animation (dark SVG directly - most compatible) -->
+<img src="https://raw.githubusercontent.com/AAbdullahRajput/AAbdullahRajput/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="98%" />
 
 </div>
 
@@ -293,7 +283,7 @@ motto: "Code with purpose, build with passion"
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AAbdullahRajput&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="98%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=AAbdullahRajput&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="98%" alt="GitHub Trophies" />
 
 <br/><br/>
 
