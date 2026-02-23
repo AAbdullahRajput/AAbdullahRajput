@@ -255,27 +255,63 @@ motto: "Code with purpose, build with passion"
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aabdullahrajput&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E6EDF3" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aabdullahrajput&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabdullahrajput&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E6EDF3&langs_count=8" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=aabdullahrajput&limit=5&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E6EDF3" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabdullahrajput&custom_title=Ahmad%20Abdullah's%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E6EDF3&area_color=3B82F6&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+<!-- Row 1: Stats + Streak -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AAbdullahRajput&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://streak-stats.demolab.com?user=AAbdullahRajput&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<!-- Row 2: Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAbdullahRajput&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<!-- Animated Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AAbdullahRajput&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph" />
+
+<br/><br/>
+
+<!-- 🐍 Contribution Snake Animation -->
+<!-- NOTE: Run the GitHub Action first, then this will display -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AAbdullahRajput/AAbdullahRajput/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AAbdullahRajput/AAbdullahRajput/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AAbdullahRajput/AAbdullahRajput/output/github-contribution-grid-snake-dark.svg" width="98%" />
+</picture>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Achievements & Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aabdullahrajput&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
+<div align="center">
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AAbdullahRajput&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="98%" alt="GitHub Trophies" />
+
+<br/><br/>
+
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAbdullahRajput&theme=tokyonight" width="98%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AAbdullahRajput&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AAbdullahRajput&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AAbdullahRajput&theme=tokyonight" width="32%" />
+
+<br/><br/>
+
+<!-- Coding GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
