@@ -56,7 +56,6 @@ motto: "Code with purpose, build with passion"
 <br clear="both">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🛠️ Tech Stack & Expertise
 
 <div align="center">
@@ -77,11 +76,17 @@ motto: "Code with purpose, build with passion"
     <br><sub><b>Android</b></sub>
   </td>
   <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="50" height="50" alt="iOS" />
+    <br><sub><b>iOS</b></sub>
+  </td>
+  <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
     <br><sub><b>Java</b></sub>
   </td>
 </tr>
 </table>
+
+> 📲 Builds for **Android**, **iOS**, and **Web** using Flutter
 
 ### 🌐 Web Development
 <table>
@@ -97,6 +102,14 @@ motto: "Code with purpose, build with passion"
   <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
     <br><sub><b>JavaScript</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React" />
+    <br><sub><b>React</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
+    <br><sub><b>Node.js</b></sub>
   </td>
   <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50" height="50" alt="Bootstrap" />
@@ -124,6 +137,14 @@ motto: "Code with purpose, build with passion"
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50" alt="SQLite" />
     <br><sub><b>SQLite</b></sub>
   </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
+    <br><sub><b>MongoDB</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server" />
+    <br><sub><b>SQL Server</b></sub>
+  </td>
 </tr>
 </table>
 
@@ -147,6 +168,10 @@ motto: "Code with purpose, build with passion"
     <br><sub><b>C++</b></sub>
   </td>
   <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
+    <br><sub><b>C#</b></sub>
+  </td>
+  <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
     <br><sub><b>PHP</b></sub>
   </td>
@@ -167,6 +192,10 @@ motto: "Code with purpose, build with passion"
   <td align="center" width="100">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" height="50" alt="VS Code" />
     <br><sub><b>VS Code</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio" />
+    <br><sub><b>Visual Studio</b></sub>
   </td>
   <td align="center" width="100">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50" alt="GitHub" />
