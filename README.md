@@ -35,7 +35,7 @@ name: Ahmad Abdullah
 role: Application Developer
 location: Pakistan 🇵🇰
 education: Computer Science Undergraduate
-interests: [Mobile Development, Web Development, AI/ML, IoT]
+interests: [Mobile/IOS/WebApp Development, Website Development, AI/ML, IoT]
 current_focus: Advanced Flutter & Clean Architecture
 motto: "Code with purpose, build with passion"
 ```
