@@ -310,9 +310,9 @@ motto: "Code with purpose, build with passion"
   <a href="https://twitter.com/aabdullahrajput">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://drive.google.com/file/d/1QdDvpL7YObVzAUu4lHcetAPL0j77wxvC/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-  </a>
+  <a href="https://drive.google.com/file/d/1whxoTuQTNgf0L42xILlVt-ZzL-TgvIkw/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+</a>
 </p>
 
 <div align="center">
