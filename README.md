@@ -51,7 +51,7 @@ motto: "Code with purpose, build with passion"
 - 👯 Open to collaborate on **Mobile & Full-Stack Projects**
 - 💬 Ask me about **Cross-Platform Development** & **Emerging Tech**
 - 📫 Reach me at **ahmadabdullah4943@gmail.com**
-- 📄 View my **[Resume](https://drive.google.com/file/d/1QdDvpL7YObVzAUu4lHcetAPL0j77wxvC/view?usp=sharing)**
+- 📄 View my **[Resume]([https://drive.google.com/file/d/1QdDvpL7YObVzAUu4lHcetAPL0j77wxvC/view?usp=sharing](https://drive.google.com/file/d/1whxoTuQTNgf0L42xILlVt-ZzL-TgvIkw/view?usp=drive_link))**
 
 <br clear="both">
 
