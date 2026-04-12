@@ -272,13 +272,13 @@ motto: "Code with purpose, build with passion"
     
 ### 🚀 Active Projects
     
-- **Campus Entry Guide** 🏫
-  - Smart campus navigation app
-  - Real-time authentication system
-  - Event & resource management
-  - Built with Flutter & Firebase
+- **SabziDukan** 🥦
+  - Full-stack vegetable shop management app
+  - 5 roles: Owner, Manager, Employee, Customer, Vendor
+  - Credit tracking, vendor consignment & daily reports
+  - Built with Flutter, Node.js, MySQL & Firebase
     
-  </td>
+</td>
   <td width="50%">
     
 ### 📚 Learning Path
