@@ -50,7 +50,7 @@ motto: "Code with purpose, build with passion"
 - 🎯 Focused on **Tiered Subscription Architecture** & **Clean Architecture**
 - 👯 Open to collaborate on **Mobile & Full-Stack Projects**
 - 💬 Ask me about **Cross-Platform Development** & **Emerging Tech**
-- 📫 Reach me at **ahmadabdullah4943@gmail.com**
+- 📫 Reach me at **ahmadabdullah4972@gmail.com**
 - 📄 View my **[Resumes](https://drive.google.com/drive/folders/1iCBXZgyC6LtSei86m6DQQ91tqp1wteVw?usp=sharing)**
 
 <br clear="both">
@@ -312,14 +312,8 @@ motto: "Code with purpose, build with passion"
   <a href="https://github.com/AAbdullahRajput">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/aabdullahrajput">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ahmadabdullah4943@gmail.com">
+  <a href="mailto:ahmadabdullah4972@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://twitter.com/aabdullahrajput">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://drive.google.com/drive/folders/1iCBXZgyC6LtSei86m6DQQ91tqp1wteVw?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/My%20Resumes-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="My Resumes" />
