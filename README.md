@@ -36,7 +36,7 @@ role: Application Developer
 location: Pakistan 🇵🇰
 education: Computer Science Undergraduate
 interests: [Mobile/IOS/WebApp Development, Website Development, AI/ML, IoT]
-current_focus: Advanced Flutter & Clean Architecture
+current_focus: Advanced Flutter · Clean Architecture · Supabase · Responsive Web+Mobile
 motto: "Code with purpose, build with passion"
 ```
 
@@ -44,10 +44,10 @@ motto: "Code with purpose, build with passion"
 
 ### 💡 What I Do
 
-- 🔭 Currently working on **Campus Entry Guide** (Smart Campus Mobile App)
-- 🌱 Learning **Advanced Flutter** (State Management & Clean Architecture)
-- ⚡ Exploring **Backend Integration** with REST APIs & GraphQL
-- 🎯 Focused on **Performance Optimization** in Mobile Apps
+- 🔭 Currently working on **FitLife** (Full-Stack Fitness & Wellness Flutter App)
+- 🌱 Learning **Supabase** (Auth, Realtime DB, Storage, Edge Functions)
+- ⚡ Building **Responsive Adaptive UIs** — same Flutter codebase for Mobile & Web
+- 🎯 Focused on **Tiered Subscription Architecture** & **Clean Architecture**
 - 👯 Open to collaborate on **Mobile & Full-Stack Projects**
 - 💬 Ask me about **Cross-Platform Development** & **Emerging Tech**
 - 📫 Reach me at **ahmadabdullah4943@gmail.com**
@@ -56,6 +56,7 @@ motto: "Code with purpose, build with passion"
 <br clear="both">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🛠️ Tech Stack & Expertise
 
 <div align="center">
@@ -128,6 +129,10 @@ motto: "Code with purpose, build with passion"
   <td align="center" width="100">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" alt="Firebase" />
     <br><sub><b>Firebase</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="50" height="50" alt="Supabase" />
+    <br><sub><b>Supabase</b></sub>
   </td>
   <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
@@ -222,9 +227,7 @@ motto: "Code with purpose, build with passion"
 
 <br/>
 
-
 <img width="48%" src="https://streak-stats.demolab.com/?user=AAbdullahRajput&theme=tokyonight&hide_border=true" />
-
 
 <br/><br/>
 
@@ -233,18 +236,16 @@ motto: "Code with purpose, build with passion"
 
 <br/><br/>
 
-<!-- 🐍 Snake Animation (dark SVG directly - most compatible) -->
+<!-- 🐍 Snake Animation -->
 <img src="https://raw.githubusercontent.com/AAbdullahRajput/AAbdullahRajput/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="98%" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##  Statistics
+## Statistics
 
 <div align="center">
-
-
 
 <!-- Profile Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAbdullahRajput&theme=tokyonight" width="98%" />
@@ -257,7 +258,6 @@ motto: "Code with purpose, build with passion"
 
 <br/><br/>
 
-<!-- Coding GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 
 </div>
@@ -269,26 +269,37 @@ motto: "Code with purpose, build with passion"
 <table>
 <tr>
   <td width="50%">
-    
+
 ### 🚀 Active Projects
-    
+
+- **FitLife** 💪 *(In Progress)*
+  - Full-stack fitness & wellness Flutter app (Mobile + Web)
+  - Workout library, meal/diet plans, progress tracking
+  - Supabase Auth, Realtime DB & Storage backend
+  - Tiered subscription model (Guest / Free / Premium)
+  - Adaptive responsive UI — single codebase for mobile & web
+  - Built with Flutter, Dart, Supabase & Provider
+
 - **SabziDukan** 🥦
   - Full-stack vegetable shop management app
   - 5 roles: Owner, Manager, Employee, Customer, Vendor
   - Credit tracking, vendor consignment & daily reports
   - Built with Flutter, Node.js, MySQL & Firebase
-    
+
 </td>
   <td width="50%">
-    
+
 ### 📚 Learning Path
-    
+
+- **Supabase** — Auth, Realtime DB, Storage, Edge Functions
+- **Responsive Adaptive Flutter** — Mobile + Web from one codebase
+- **Tiered Subscription Architecture** in Flutter apps
 - Advanced Flutter Architecture (BLoC, Provider)
 - Clean Code & SOLID Principles
 - RESTful API Development
 - Cloud Services (AWS, GCP)
 - DevOps & CI/CD Pipelines
-    
+
   </td>
 </tr>
 </table>
@@ -311,8 +322,8 @@ motto: "Code with purpose, build with passion"
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://drive.google.com/drive/folders/1iCBXZgyC6LtSei86m6DQQ91tqp1wteVw?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/My%20Resumes-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="My Resumes" />
-</a>
+    <img src="https://img.shields.io/badge/My%20Resumes-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="My Resumes" />
+  </a>
 </p>
 
 <div align="center">
