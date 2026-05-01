@@ -280,12 +280,6 @@ motto: "Code with purpose, build with passion"
   - Adaptive responsive UI — single codebase for mobile & web
   - Built with Flutter, Dart, Supabase & Provider
 
-- **SabziDukan** 🥦
-  - Full-stack vegetable shop management app
-  - 5 roles: Owner, Manager, Employee, Customer, Vendor
-  - Credit tracking, vendor consignment & daily reports
-  - Built with Flutter, Node.js, MySQL & Firebase
-
 </td>
   <td width="50%">
 
