@@ -272,7 +272,7 @@ motto: "Code with purpose, build with passion"
 
 <table>
 <tr>
-  <td width="50%">
+  <td width="50%" valign="top">
 
 ### 🚀 Active Projects
 
@@ -285,7 +285,7 @@ motto: "Code with purpose, build with passion"
   - Built with Flutter, Dart, Supabase & Provider
 
 </td>
-  <td width="50%">
+  <td width="50%" valign="top">
 
 ### 📚 Learning Path
 
