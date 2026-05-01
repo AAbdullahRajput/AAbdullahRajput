@@ -184,6 +184,10 @@ motto: "Code with purpose, build with passion"
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" />
     <br><sub><b>C</b></sub>
   </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+    <br><sub><b>Python</b></sub>
+  </td>
 </tr>
 </table>
 
