@@ -3,15 +3,15 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Ahmad+Abdullah;Application+Developer;Flutter+%26+Android+Expert;Full+Stack+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ahmad+Abdullah;Full-Stack+App+Developer;Flutter+%26+React+Expert;Building+Real+Products" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">💻 Application Developer | Flutter & Android Enthusiast</h3>
+<h3 align="center">💻 Application Developer | Flutter • React • Node.js • Supabase</h3>
 
 <p align="center">
   <em>A passionate Computer Science undergraduate from Pakistan 🇵🇰</em><br>
-  <em>Building innovative mobile and web solutions</em><br>
-  <em>Transforming ideas into impactful software</em>
+  <em>Building full-stack mobile and web applications from idea to deployment</em><br>
+  <em>Transforming ideas into impactful, real-world software</em>
 </p>
 
 <p align="center">
@@ -32,26 +32,29 @@
 
 ```yaml
 name: Ahmad Abdullah
-role: Application Developer
+role: Full-Stack Developer
 location: Pakistan 🇵🇰
 education: Computer Science Undergraduate
-interests: [Mobile/IOS/WebApp Development, Website Development, AI/ML, IoT]
-current_focus: Advanced Flutter · Clean Architecture · Supabase · Responsive Web+Mobile
-motto: "Code with purpose, build with passion"
+stack: [Flutter/Dart, React, Node.js, Supabase, Firebase]
+interests: [Mobile Development, Web Apps, Real-Time Systems, AI/ML, IoT]
+current_projects:
+  - ConnectHub  → Full-Stack Social Media Platform (React + Node.js + Supabase)
+motto: "Ship real products. Learn by building."
 ```
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 💡 What I Do
 
-- 🔭 Currently working on **FitLife** (Full-Stack Fitness & Wellness Flutter App)
-- 🌱 Learning **Supabase** (Auth, Realtime DB, Storage, Edge Functions)
-- ⚡ Building **Responsive Adaptive UIs** — same Flutter codebase for Mobile & Web
-- 🎯 Focused on **Tiered Subscription Architecture** & **Clean Architecture**
-- 👯 Open to collaborate on **Mobile & Full-Stack Projects**
-- 💬 Ask me about **Cross-Platform Development** & **Emerging Tech**
-- 📫 Reach me at **ahmadabdullah4972@gmail.com**
-- 📄 View my **[Resumes](https://drive.google.com/drive/folders/1iCBXZgyC6LtSei86m6DQQ91tqp1wteVw?usp=sharing)**
+-  Currently building **ConnectHub** — a full-stack social media platform (React 19, Node.js, Supabase, Socket.io)
+-  Also working on **FitLife** — a full-stack fitness & wellness Flutter app
+-  Deep-diving into **Real-Time Systems** (Socket.io), **Clean Architecture**, and **REST API Design**
+-  Building **Responsive Adaptive UIs** — same Flutter codebase for Mobile & Web
+-  Focused on **Tiered Subscription Architecture**, **JWT Auth**, and **Supabase Storage**
+-  Open to collaborate on **Mobile & Full-Stack Projects**
+-  Ask me about **Cross-Platform Dev**, **React**, **Flutter**, or **Supabase**
+-  Reach me at **ahmadabdullah4972@gmail.com**
+-  View my **[Resumes](https://drive.google.com/drive/folders/1iCBXZgyC6LtSei86m6DQQ91tqp1wteVw?usp=sharing)**
 
 <br clear="both">
 
@@ -87,11 +90,17 @@ motto: "Code with purpose, build with passion"
 </tr>
 </table>
 
-> 📲 Builds for **Android**, **iOS**, and **Web** using Flutter
-
 ### 🌐 Web Development
 <table>
 <tr>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React" />
+    <br><sub><b>React 19</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
+    <br><sub><b>Node.js</b></sub>
+  </td>
   <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
     <br><sub><b>HTML5</b></sub>
@@ -105,14 +114,6 @@ motto: "Code with purpose, build with passion"
     <br><sub><b>JavaScript</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React" />
-    <br><sub><b>React</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
-    <br><sub><b>Node.js</b></sub>
-  </td>
-  <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50" height="50" alt="Bootstrap" />
     <br><sub><b>Bootstrap</b></sub>
   </td>
@@ -123,32 +124,28 @@ motto: "Code with purpose, build with passion"
 <table>
 <tr>
   <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
-    <br><sub><b>PHP</b></sub>
+    <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="50" height="50" alt="Supabase" />
+    <br><sub><b>Supabase</b></sub>
   </td>
   <td align="center" width="100">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" alt="Firebase" />
     <br><sub><b>Firebase</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="50" height="50" alt="Supabase" />
-    <br><sub><b>Supabase</b></sub>
-  </td>
-  <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
     <br><sub><b>MySQL</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50" alt="SQLite" />
-    <br><sub><b>SQLite</b></sub>
   </td>
   <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
     <br><sub><b>MongoDB</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server" />
-    <br><sub><b>SQL Server</b></sub>
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50" alt="SQLite" />
+    <br><sub><b>SQLite</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
+    <br><sub><b>PHP</b></sub>
   </td>
 </tr>
 </table>
@@ -161,12 +158,16 @@ motto: "Code with purpose, build with passion"
     <br><sub><b>Dart</b></sub>
   </td>
   <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+    <br><sub><b>JavaScript</b></sub>
+  </td>
+  <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
     <br><sub><b>Java</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-    <br><sub><b>JavaScript</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+    <br><sub><b>Python</b></sub>
   </td>
   <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
@@ -177,16 +178,8 @@ motto: "Code with purpose, build with passion"
     <br><sub><b>C#</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
-    <br><sub><b>PHP</b></sub>
-  </td>
-  <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" />
     <br><sub><b>C</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-    <br><sub><b>Python</b></sub>
   </td>
 </tr>
 </table>
@@ -195,16 +188,12 @@ motto: "Code with purpose, build with passion"
 <table>
 <tr>
   <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio" />
-    <br><sub><b>Android Studio</b></sub>
-  </td>
-  <td align="center" width="100">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" height="50" alt="VS Code" />
     <br><sub><b>VS Code</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio" />
-    <br><sub><b>Visual Studio</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio" />
+    <br><sub><b>Android Studio</b></sub>
   </td>
   <td align="center" width="100">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50" alt="GitHub" />
@@ -235,12 +224,10 @@ motto: "Code with purpose, build with passion"
 
 <br/><br/>
 
-<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AAbdullahRajput&theme=tokyo-night&hide_border=true&area=true&custom_title=Ahmad%20Abdullah%27s%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
 
 <br/><br/>
 
-<!-- 🐍 Snake Animation -->
 <img src="https://raw.githubusercontent.com/AAbdullahRajput/AAbdullahRajput/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="98%" />
 
 </div>
@@ -251,7 +238,6 @@ motto: "Code with purpose, build with passion"
 
 <div align="center">
 
-<!-- Profile Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAbdullahRajput&theme=tokyonight" width="98%" />
 
 <br/>
@@ -276,27 +262,36 @@ motto: "Code with purpose, build with passion"
 
 ### 🚀 Active Projects
 
-- **FitLife** 💪 *(In Progress)*
-  - Full-stack fitness & wellness Flutter app (Mobile + Web)
-  - Workout library, meal/diet plans, progress tracking
-  - Supabase Auth, Realtime DB & Storage backend
-  - Tiered subscription model (Guest / Free / Premium)
-  - Adaptive responsive UI — single codebase for mobile & web
-  - Built with Flutter, Dart, Supabase & Provider
+- **ConnectHub** 🌐 *(In Progress — CodeAlpha Internship Task 2)*
+  - Full-stack social media platform
+  - React 19 + Vite frontend, Node.js + Express backend
+  - Supabase (PostgreSQL + Storage), JWT Auth
+  - Real-time likes, comments & feed via Socket.io
+  - Posts (text/image/video), follow system, explore & search
+  - Deployed: Vercel (frontend) + Railway (backend)
 
-</td>
+
+  </td>
   <td width="50%" valign="top">
 
 ### 📚 Learning Path
 
-- **Supabase** — Auth, Realtime DB, Storage, Edge Functions
-- **Responsive Adaptive Flutter** — Mobile + Web from one codebase
-- **Tiered Subscription Architecture** in Flutter apps
-- Advanced Flutter Architecture (BLoC, Provider)
-- Clean Code & SOLID Principles
-- RESTful API Development
-- Cloud Services (AWS, GCP)
-- DevOps & CI/CD Pipelines
+**Currently Practicing (from ConnectHub):**
+- ✅ REST API Design with Express.js
+- ✅ JWT Authentication & Middleware
+- ✅ Real-Time Systems with Socket.io
+- ✅ Supabase — Auth, PostgreSQL, Storage
+- ✅ File uploads with Multer
+- ✅ React 19, React Router v7, Context API
+
+**Up Next:**
+- 🔲 Advanced Flutter Architecture (BLoC pattern)
+- 🔲 Supabase Edge Functions & Realtime subscriptions
+- 🔲 Tiered Subscription Architecture
+- 🔲 RESTful API best practices & versioning
+- 🔲 Cloud Deployment (Railway, Vercel, AWS basics)
+- 🔲 CI/CD Pipelines & GitHub Actions
+- 🔲 Clean Code & SOLID Principles (deeper)
 
   </td>
 </tr>
@@ -327,7 +322,7 @@ motto: "Code with purpose, build with passion"
 </p>
 
 <h3 align="center">
-  💙 "First, solve the problem. Then, write the code." - John Johnson
+  💙 "First, solve the problem. Then, write the code." — John Johnson
 </h3>
 
 <p align="center">
