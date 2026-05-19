@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ahmad+Abdullah;Full-Stack+App+Developer;Flutter+%26+React+Expert;Building+Real+Products" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">💻 Application Developer | Flutter • React • Node.js • Supabase</h3>
+<h3 align="center">💻 Application Developer | Flutter • React • Node.js • Supabase/SQL/Any Db</h3>
 
 <p align="center">
   <em>A passionate Computer Science undergraduate from Pakistan 🇵🇰</em><br>
