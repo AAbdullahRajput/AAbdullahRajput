@@ -262,7 +262,7 @@ motto: "Ship real products. Learn by building."
 
 ### 🚀 Active Projects
 
-- **ConnectHub** 🌐 *(In Progress — CodeAlpha Internship Task 2)*
+- **ConnectHub** 🌐 *(In Progress)*
   - Full-stack social media platform
   - React 19 + Vite frontend, Node.js + Express backend
   - Supabase (PostgreSQL + Storage), JWT Auth
