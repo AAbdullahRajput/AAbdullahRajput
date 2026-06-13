@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ahmad+Abdullah;Full-Stack+App+Developer;Flutter+%26+React+Expert;Building+Real+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+I'm+Ahmad+Abdullah;Full-Stack+%26+Mobile+Developer;Flutter+%E2%80%A2+React+Native+%E2%80%A2+React;Node.js+%E2%80%A2+FastAPI+%E2%80%A2+Supabase;Building+Real+Products" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">💻 Application Developer | Flutter • React • Node.js • Supabase/SQL/Any Db</h3>
+<h3 align="center">Application Developer | Flutter • React Native • React • Node.js • FastAPI • Supabase</h3>
 
 <p align="center">
-  <em>A passionate Computer Science undergraduate from Pakistan 🇵🇰</em><br>
+  <em>A passionate developer from Pakistan</em><br>
   <em>Building full-stack mobile and web applications from idea to deployment</em><br>
   <em>Transforming ideas into impactful, real-world software</em>
 </p>
@@ -28,43 +28,49 @@
 
 <br>
 
-## 🚀 About Me
+## About Me
 
 ```yaml
 name: Ahmad Abdullah
-role: Full-Stack Developer
-location: Pakistan 🇵🇰
-education: Computer Science Undergraduate
-stack: [Flutter/Dart, React, Node.js, Supabase, Firebase]
-interests: [Mobile Development, Web Apps, Real-Time Systems, AI/ML, IoT]
-current_projects:
-  - ConnectHub  → Full-Stack Social Media Platform (React + Node.js + Supabase)
+role: Full-Stack & Mobile Developer
+location: Pakistan
+focus: Computer Science & Software Engineering
+stack:
+  mobile:   [Flutter/Dart, React Native + Expo]
+  web:      [React, Next.js, Node.js/Express, FastAPI]
+  database: [Supabase, Firebase, MongoDB, MySQL, PostgreSQL, SQLite]
+  extras:   [TypeScript, Socket.io, WebRTC, Stripe, JWT, Zustand]
+interests: [Mobile Dev, Web Apps, Real-Time Systems, SaaS, AI/ML, IoT]
+current:
+  - ConnectHub     → Full-Stack Social Media Platform (React + Node.js + Supabase) [Done]
+  - WorldCup26App  → React Native prediction app (Expo Router + Supabase) [Maintaining]
 motto: "Ship real products. Learn by building."
 ```
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 💡 What I Do
+### What I Do
 
--  Currently building **ConnectHub** — a full-stack social media platform (React 19, Node.js, Supabase, Socket.io)
--  Also working on **FitLife** — a full-stack fitness & wellness Flutter app
--  Deep-diving into **Real-Time Systems** (Socket.io), **Clean Architecture**, and **REST API Design**
--  Building **Responsive Adaptive UIs** — same Flutter codebase for Mobile & Web
--  Focused on **Tiered Subscription Architecture**, **JWT Auth**, and **Supabase Storage**
--  Open to collaborate on **Mobile & Full-Stack Projects**
--  Ask me about **Cross-Platform Dev**, **React**, **Flutter**, or **Supabase**
--  Reach me at **ahmadabdullah4972@gmail.com**
--  View my **[Resumes](https://drive.google.com/drive/folders/1iCBXZgyC6LtSei86m6DQQ91tqp1wteVw?usp=sharing)**
+- Shipped **ConnectHub** — full-stack social media platform (React 19, Node.js, Supabase, Socket.io) → Live on Vercel + Railway
+- Maintaining **World Cup 2026 App** — React Native prediction & leaderboard app (Expo Router, TypeScript, Supabase, Zustand)
+- Building cross-platform apps — same codebase for Mobile & Web using Flutter and React Native
+- Skilled in **JWT Auth, RLS (Row Level Security), Supabase Auth, Firebase Auth**
+- Deep experience with **real-time systems** — Socket.io, WebRTC, Supabase Realtime
+- Integrated **Stripe** payments in production SaaS apps
+- Experienced integrating cross-team repos into production-ready apps
+- Open to collaborate on **Mobile & Full-Stack Projects**
+- Reach me at **ahmadabdullah4972@gmail.com**
+- View my **[Resumes](https://drive.google.com/drive/folders/1iCBXZgyC6LtSei86m6DQQ91tqp1wteVw?usp=sharing)**
 
 <br clear="both">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Stack & Expertise
+## Tech Stack & Expertise
 
 <div align="center">
 
-### 📱 Mobile Development
+### Mobile Development
 <table>
 <tr>
   <td align="center" width="100">
@@ -76,6 +82,14 @@ motto: "Ship real products. Learn by building."
     <br><sub><b>Dart</b></sub>
   </td>
   <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React Native" />
+    <br><sub><b>React Native</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="50" height="50" alt="Expo" />
+    <br><sub><b>Expo</b></sub>
+  </td>
+  <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50" height="50" alt="Android" />
     <br><sub><b>Android</b></sub>
   </td>
@@ -83,14 +97,10 @@ motto: "Ship real products. Learn by building."
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="50" height="50" alt="iOS" />
     <br><sub><b>iOS</b></sub>
   </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
-    <br><sub><b>Java</b></sub>
-  </td>
 </tr>
 </table>
 
-### 🌐 Web Development
+### Web Development
 <table>
 <tr>
   <td align="center" width="100">
@@ -98,8 +108,24 @@ motto: "Ship real products. Learn by building."
     <br><sub><b>React 19</b></sub>
   </td>
   <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" />
+    <br><sub><b>Next.js</b></sub>
+  </td>
+  <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
     <br><sub><b>Node.js</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" />
+    <br><sub><b>FastAPI</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
+    <br><sub><b>TypeScript</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+    <br><sub><b>JavaScript</b></sub>
   </td>
   <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
@@ -109,18 +135,10 @@ motto: "Ship real products. Learn by building."
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
     <br><sub><b>CSS3</b></sub>
   </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-    <br><sub><b>JavaScript</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50" height="50" alt="Bootstrap" />
-    <br><sub><b>Bootstrap</b></sub>
-  </td>
 </tr>
 </table>
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 <table>
 <tr>
   <td align="center" width="100">
@@ -132,27 +150,31 @@ motto: "Ship real products. Learn by building."
     <br><sub><b>Firebase</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-    <br><sub><b>MySQL</b></sub>
-  </td>
-  <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
     <br><sub><b>MongoDB</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
+    <br><sub><b>PostgreSQL</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+    <br><sub><b>MySQL</b></sub>
   </td>
   <td align="center" width="100">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50" alt="SQLite" />
     <br><sub><b>SQLite</b></sub>
   </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
-    <br><sub><b>PHP</b></sub>
-  </td>
 </tr>
 </table>
 
-### 💻 Programming Languages
+### Programming Languages
 <table>
 <tr>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
+    <br><sub><b>TypeScript</b></sub>
+  </td>
   <td align="center" width="100">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" height="50" alt="Dart" />
     <br><sub><b>Dart</b></sub>
@@ -162,12 +184,12 @@ motto: "Ship real products. Learn by building."
     <br><sub><b>JavaScript</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
-    <br><sub><b>Java</b></sub>
-  </td>
-  <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
     <br><sub><b>Python</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+    <br><sub><b>Java</b></sub>
   </td>
   <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
@@ -177,14 +199,10 @@ motto: "Ship real products. Learn by building."
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
     <br><sub><b>C#</b></sub>
   </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" />
-    <br><sub><b>C</b></sub>
-  </td>
 </tr>
 </table>
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 <table>
 <tr>
   <td align="center" width="100">
@@ -207,14 +225,111 @@ motto: "Ship real products. Learn by building."
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" />
     <br><sub><b>Postman</b></sub>
   </td>
+  <td align="center" width="100">
+    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="50" height="50" alt="Nginx" />
+    <br><sub><b>Nginx</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
+    <br><sub><b>Docker</b></sub>
+  </td>
 </tr>
 </table>
+
+### Deployment & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Let's_Encrypt_SSL-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+## Dev Philosophy
+
+<div align="center">
+
+```
+I think in components, breathe in functions, and dream in async/await
+Built apps used across multiple countries with multilingual support
+I've shipped features at 2AM and debugged them at 3AM — same night
+Built an entire World Cup 2026 prediction engine just because I love football
+I treat auth like a padlock — never ship without it
+My superpower: integrating chaotic multi-team codebases into clean deployments
+From idea to deployed app is my favorite journey
+```
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-32a9b7b7-71f0-4c3a-a2a8-4e4e4f41d8cd.gif" width="500" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Current Focus
+
+<table>
+<tr>
+  <td width="50%" valign="top">
+
+### What I'm Working On
+
+**ConnectHub**
+<br>React 19 + Node.js + Supabase + Socket.io
+<br>Real-time feed, posts, follows, live notifications
+<br>Deployed: Vercel + Railway
+<br>
+<img src="https://img.shields.io/badge/Status-Done-brightgreen?style=flat-square" />
+
+<br><br>
+
+**World Cup 2026 App**
+<br>React Native + Expo Router + TypeScript + Supabase
+<br>104 matches, live leaderboard, community screen
+<br>Zustand state management + RLS security
+<br>
+<img src="https://img.shields.io/badge/Status-Maintaining-blue?style=flat-square" />
+
+  </td>
+  <td width="50%" valign="top">
+
+### Skills Shipped in Production
+
+<img src="https://img.shields.io/badge/React_Native_%2B_Expo_Router-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js_App_Router-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase_RLS_%2B_Auth-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB_%2B_Mongoose-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io_Realtime-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe_Payments-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx_%2B_SSL-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway_%2B_Vercel-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+
+<br><br>
+
+**Up Next:**
+<br>
+<img src="https://img.shields.io/badge/Flutter_BLoC-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase_Edge_Functions-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions_CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_Basics-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+
+  </td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## GitHub Analytics
 
 <div align="center">
 
@@ -254,52 +369,7 @@ motto: "Ship real products. Learn by building."
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Current Focus
-
-<table>
-<tr>
-  <td width="50%" valign="top">
-
-### 🚀 Active Projects
-
-- **ConnectHub** 🌐 *(In Progress)*
-  - Full-stack social media platform
-  - React 19 + Vite frontend, Node.js + Express backend
-  - Supabase (PostgreSQL + Storage), JWT Auth
-  - Real-time likes, comments & feed via Socket.io
-  - Posts (text/image/video), follow system, explore & search
-  - Deployed: Vercel (frontend) + Railway (backend)
-
-
-  </td>
-  <td width="50%" valign="top">
-
-### 📚 Learning Path
-
-**Currently Practicing (from ConnectHub):**
-- ✅ REST API Design with Express.js
-- ✅ JWT Authentication & Middleware
-- ✅ Real-Time Systems with Socket.io
-- ✅ Supabase — Auth, PostgreSQL, Storage
-- ✅ File uploads with Multer
-- ✅ React 19, React Router v7, Context API
-
-**Up Next:**
-- 🔲 Advanced Flutter Architecture (BLoC pattern)
-- 🔲 Supabase Edge Functions & Realtime subscriptions
-- 🔲 Tiered Subscription Architecture
-- 🔲 RESTful API best practices & versioning
-- 🔲 Cloud Deployment (Railway, Vercel, AWS basics)
-- 🔲 CI/CD Pipelines & GitHub Actions
-- 🔲 Clean Code & SOLID Principles (deeper)
-
-  </td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 Let's Connect & Collaborate
+## Connect & Collaborate
 
 <p align="center">
   <a href="https://github.com/AAbdullahRajput">
@@ -314,6 +384,10 @@ motto: "Ship real products. Learn by building."
 </p>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=35&fontAlignY=70&animation=twinkling" width="100%"/>
 </div>
 
@@ -322,13 +396,13 @@ motto: "Ship real products. Learn by building."
 </p>
 
 <h3 align="center">
-  💙 "First, solve the problem. Then, write the code." — John Johnson
+  "First, solve the problem. Then, write the code." — John Johnson
 </h3>
 
 <p align="center">
-  <i>⭐ Feel free to explore my repositories and don't forget to star them if you find something interesting!</i>
+  <i>Feel free to explore my repositories and star them if you find something interesting!</i>
 </p>
 
 <p align="center">
-  <i>Made with 💙 by <a href="https://github.com/AAbdullahRajput">Ahmad Abdullah</a></i>
+  <i>Made with dedication by <a href="https://github.com/AAbdullahRajput">Ahmad Abdullah</a></i>
 </p>
