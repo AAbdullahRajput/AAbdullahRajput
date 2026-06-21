@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+I'm+Ahmad+Abdullah;Full-Stack+%26+Mobile+Developer;Flutter+%E2%80%A2+React+Native+%E2%80%A2+React;Node.js+%E2%80%A2+FastAPI+%E2%80%A2+Supabase;Building+Real+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+I'm+Ahmad+Abdullah;Full-Stack+Mobile+App+%26+Web+Developer;Flutter+%E2%80%A2+React+Native+%E2%80%A2+React;Node.js+%E2%80%A2+FastAPI+%E2%80%A2+Supabase;Building+Real+Products" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Application Developer | Flutter • React Native • React • Node.js • FastAPI • Supabase</h3>
