@@ -227,7 +227,7 @@ motto: "Ship real products. Learn by building."
     <br><sub><b>Figma</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/framer-2-logo-png-transparent.png" width="50" height="50" alt="Framer" />
+    <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
     <br><sub><b>Framer</b></sub>
   </td>
   <td align="center" width="100">
