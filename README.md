@@ -39,11 +39,14 @@ stack:
   mobile:   [Flutter/Dart, React Native + Expo]
   web:      [React, Next.js, Node.js/Express, FastAPI]
   database: [Supabase, Firebase, MongoDB, MySQL, PostgreSQL, SQLite]
+  no-code:  [Framer]
   extras:   [TypeScript, Socket.io, WebRTC, Stripe, JWT, Zustand]
 interests: [Mobile Dev, Web Apps, Real-Time Systems, SaaS, AI/ML, IoT]
 current:
   - ConnectHub     → Full-Stack Social Media Platform (React + Node.js + Supabase) [Done]
   - WorldCup26App  → React Native prediction app (Expo Router + Supabase) [Maintaining]
+  - StationHub     → Travel & Booking Platform (React Native + FastAPI + React/Vite Dashboard) [Maintaining]
+  - AIToolsHub     → No-Code AI Tools Directory built in Framer (CMS-driven) [Building]
 motto: "Ship real products. Learn by building."
 ```
 
@@ -52,7 +55,9 @@ motto: "Ship real products. Learn by building."
 ### What I Do
 
 - Shipped **ConnectHub** — full-stack social media platform (React 19, Node.js, Supabase, Socket.io) → Live on Vercel + Railway
-- Maintaining **World Cup 2026 App** — React Native prediction & leaderboard app (Expo Router, TypeScript, Supabase, Zustand)
+- Maintaining **World Cup 2026 App** — React Native prediction & leaderboard app (Expo Router, TypeScript, Supabase, Zustand) → Live on Google Play
+- Built **Station Hub** — full-stack travel platform: React Native passenger app, FastAPI + Firebase backend, and a React/Vite admin dashboard
+- Building **AI Tools Hub** — a Framer-based AI tools directory with CMS-bound dynamic pages and custom components
 - Building cross-platform apps — same codebase for Mobile & Web using Flutter and React Native
 - Skilled in **JWT Auth, RLS (Row Level Security), Supabase Auth, Firebase Auth**
 - Deep experience with **real-time systems** — Socket.io, WebRTC, Supabase Realtime
@@ -60,7 +65,7 @@ motto: "Ship real products. Learn by building."
 - Experienced integrating cross-team repos into production-ready apps
 - Open to collaborate on **Mobile & Full-Stack Projects**
 - Reach me at **ahmadabdullah4972@gmail.com**
-- View my **[Resumes](https://drive.google.com/drive/folders/1iCBXZgyC6LtSei86m6DQQ91tqp1wteVw?usp=sharing)**
+- View my **[Resume](https://drive.google.com/file/d/170hCljehQe0QhSGE07ki7hglMUz1rYT3/view?usp=sharing)**
 
 <br clear="both">
 
@@ -222,6 +227,10 @@ motto: "Ship real products. Learn by building."
     <br><sub><b>Figma</b></sub>
   </td>
   <td align="center" width="100">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/framer-2-logo-png-transparent.png" width="50" height="50" alt="Framer" />
+    <br><sub><b>Framer</b></sub>
+  </td>
+  <td align="center" width="100">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" />
     <br><sub><b>Postman</b></sub>
   </td>
@@ -243,6 +252,7 @@ motto: "Ship real products. Learn by building."
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Let's_Encrypt_SSL-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Basics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
@@ -289,12 +299,28 @@ From idea to deployed app is my favorite journey
 
 <br><br>
 
-**World Cup 2026 App**
+**World Cup 2026 App (Golazo)**
 <br>React Native + Expo Router + TypeScript + Supabase
 <br>104 matches, live leaderboard, community screen
 <br>Zustand state management + RLS security
 <br>
+<img src="https://img.shields.io/badge/Status-Live_on_Google_Play-brightgreen?style=flat-square" />
+
+<br><br>
+
+**Station Hub**
+<br>React Native + FastAPI + Firebase + React/Vite Dashboard
+<br>Passenger app for browsing stations & booking, plus an admin dashboard
+<br>
 <img src="https://img.shields.io/badge/Status-Maintaining-blue?style=flat-square" />
+
+<br><br>
+
+**AI Tools Hub**
+<br>Framer + CMS Collections + Custom Components
+<br>Multi-page AI tools directory with dynamic CMS-bound routing
+<br>
+<img src="https://img.shields.io/badge/Status-Building-blue?style=flat-square" />
 
   </td>
   <td width="50%" valign="top">
@@ -312,6 +338,7 @@ From idea to deployed app is my favorite journey
 <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx_%2B_SSL-009639?style=flat-square&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
 <img src="https://img.shields.io/badge/Railway_%2B_Vercel-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
 
 <br><br>
@@ -321,7 +348,7 @@ From idea to deployed app is my favorite journey
 <img src="https://img.shields.io/badge/Flutter_BLoC-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase_Edge_Functions-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions_CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_Basics-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 
   </td>
 </tr>
@@ -378,8 +405,8 @@ From idea to deployed app is my favorite journey
   <a href="mailto:ahmadabdullah4972@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://drive.google.com/drive/folders/1iCBXZgyC6LtSei86m6DQQ91tqp1wteVw?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Resumes-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="My Resumes" />
+  <a href="https://drive.google.com/file/d/170hCljehQe0QhSGE07ki7hglMUz1rYT3/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="My Resume" />
   </a>
 </p>
 
