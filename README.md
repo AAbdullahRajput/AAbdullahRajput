@@ -40,9 +40,10 @@ stack:
   web:      [React, Next.js, Node.js/Express, FastAPI]
   database: [Supabase, Firebase, MongoDB, MySQL, PostgreSQL, SQLite]
   no-code:  [Framer]
-  extras:   [TypeScript, Socket.io, WebRTC, Stripe, JWT, Zustand]
+  extras:   [TypeScript, Socket.io, WebRTC, Agora RTC, Stripe, JWT, Zustand]
 interests: [Mobile Dev, Web Apps, Real-Time Systems, SaaS, AI/ML, IoT]
 current:
+  - GetFit         → Fitness & wellness app w/ trainers, Agora video calls (Flutter + Supabase) [Building]
   - ConnectHub     → Full-Stack Social Media Platform (React + Node.js + Supabase) [Done]
   - WorldCup26App  → React Native prediction app (Expo Router + Supabase) [Maintaining]
   - StationHub     → Travel & Booking Platform (React Native + FastAPI + React/Vite Dashboard) [Maintaining]
@@ -54,13 +55,14 @@ motto: "Ship real products. Learn by building."
 
 ### What I Do
 
+- Building **Get Fit** — a Flutter fitness & wellness app connecting users with trainers, featuring live Agora video calls, Stripe payments, and Supabase realtime booking
 - Shipped **ConnectHub** — full-stack social media platform (React 19, Node.js, Supabase, Socket.io) → Live on Vercel + Railway
 - Maintaining **World Cup 2026 App** — React Native prediction & leaderboard app (Expo Router, TypeScript, Supabase, Zustand) → Live on Google Play
 - Built **Station Hub** — full-stack travel platform: React Native passenger app, FastAPI + Firebase backend, and a React/Vite admin dashboard
 - Building **AI Tools Hub** — a Framer-based AI tools directory with CMS-bound dynamic pages and custom components
 - Building cross-platform apps — same codebase for Mobile & Web using Flutter and React Native
 - Skilled in **JWT Auth, RLS (Row Level Security), Supabase Auth, Firebase Auth**
-- Deep experience with **real-time systems** — Socket.io, WebRTC, Supabase Realtime
+- Deep experience with **real-time systems** — Socket.io, WebRTC, Agora RTC, Supabase Realtime
 - Integrated **Stripe** payments in production SaaS apps
 - Experienced integrating cross-team repos into production-ready apps
 - Open to collaborate on **Mobile & Full-Stack Projects**
@@ -290,6 +292,14 @@ From idea to deployed app is my favorite journey
 
 ### What I'm Working On
 
+**Get Fit**
+<br>Flutter + Supabase + Stripe + Agora RTC
+<br>Trainer booking, live video calls, gym & yoga content, Stripe payments
+<br>
+<img src="https://img.shields.io/badge/Status-In_Development-blue?style=flat-square" />
+
+<br><br>
+
 **ConnectHub**
 <br>React 19 + Node.js + Supabase + Socket.io
 <br>Real-time feed, posts, follows, live notifications
@@ -327,6 +337,7 @@ From idea to deployed app is my favorite journey
 
 ### Skills Shipped in Production
 
+<img src="https://img.shields.io/badge/Flutter_%2B_Dart-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native_%2B_Expo_Router-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js_App_Router-000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -334,6 +345,7 @@ From idea to deployed app is my favorite journey
 <img src="https://img.shields.io/badge/MongoDB_%2B_Mongoose-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io_Realtime-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/Agora_RTC-099DFD?style=flat-square&logo=agora&logoColor=white" />
 <img src="https://img.shields.io/badge/Stripe_Payments-635BFF?style=flat-square&logo=stripe&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx_%2B_SSL-009639?style=flat-square&logo=nginx&logoColor=white" />
