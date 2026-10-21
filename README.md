@@ -67,7 +67,7 @@ motto: "Ship real products. Learn by building."
 - Experienced integrating cross-team repos into production-ready apps
 - Open to collaborate on **Mobile & Full-Stack Projects**
 - Reach me at **ahmadabdullah4972@gmail.com**
-- View my **[Resume](https://drive.google.com/file/d/170hCljehQe0QhSGE07ki7hglMUz1rYT3/view?usp=sharing)**
+- View my **[Resume]([https://drive.google.com/file/d/170hCljehQe0QhSGE07ki7hglMUz1rYT3/view?usp=sharing](https://drive.google.com/file/d/1XB2YyaTjAWaEkI1xQYHyV0dQbYMYglgM/view?usp=sharing))**
 
 <br clear="both">
 
